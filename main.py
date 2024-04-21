@@ -139,7 +139,7 @@ title_rect.center = (su.WIDTH // 2, (su.HEIGHT - su.DOJO_HIGHT) // 4)
 
 # Create the bots.
 r1 = bot(su.RED, su.WIDTH * 1 / 4, su.HEIGHT / 2, 0)
-r2 = bot(su.BLUE, su.WIDTH * 3 / 4, su.HEIGHT / 2, 180)
+r2 = bot(su.BLUE, su.WIDTH * 3 / 4, su.HEIGHT / 2, 0)
 
 running = True
 while running:
